@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "voice-overlay-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/algolia/voice-overlay-ios.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "55a1047be9e0d9e4d4295ef127cc31b3ef7b8b54"
+      }
+    }
+  ],
+  "version" : 2
+}
